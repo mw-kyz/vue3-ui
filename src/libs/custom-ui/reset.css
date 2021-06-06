@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  outline: none;
+  color: rgb(78, 184, 255);
+}
+
+h1,
+p {
+  font-weight: normal;
+  margin: 0;
+}
+
+button {
+  outline: none;
+  border: none;
+}
